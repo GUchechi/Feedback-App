@@ -14,9 +14,9 @@ const Header = ({text, bgColor, textColor}) => {
 }
 
 Header.defaultProps = {
-  text : 'My first props',
+  text : 'My FeedBack UI',
   bgColor : 'black', 
-  textColor:'pink'
+  textColor:'pink',
 }
 
 export default Header
